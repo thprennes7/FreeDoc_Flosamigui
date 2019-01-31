@@ -1,0 +1,2 @@
+class ChangementDoctor < ApplicationRecord
+end
