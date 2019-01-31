@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## DOCFREE  
 
-Things you may want to cover:
+![Ace fucking ventura](https://media.giphy.com/media/FJznB4jaJLckw/giphy.gif)
 
-* Ruby version
+### Instructions
 
-* System dependencies
+Open up yer **terminal** and type down the following **commands** :
 
-* Configuration
+- `bundle install` : Install all dependencies
+- `rails db:migrate` : Migrate the database
+- `rails db:seed` : Populate the database
+- `rails console` : to check if everything works
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
