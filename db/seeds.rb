@@ -9,4 +9,5 @@ end
 end
 
 120.times do
-    appointment = Appointment.create!(date: Faker::)
+    appointment = Appointment.create!(date: Faker::Date.forward(500), doctor_id: Doctor.all.sample.id, patient_id: Patient.all.sample.id)
+end
